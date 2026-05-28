@@ -27,7 +27,6 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=exfador&label=Profile%20views&color=BB54FF&style=for-the-badge" alt="views" />
   <a href="https://github.com/exfador?tab=followers"><img src="https://img.shields.io/github/followers/exfador?label=Followers&style=for-the-badge&color=BB54FF&labelColor=12121A" alt="followers" /></a>
-  <img src="https://img.shields.io/github/stars/exfador?label=Stars&style=for-the-badge&color=BB54FF&labelColor=12121A" alt="stars" />
 </p>
 
 <!-- ✦ ANIMATED RAINBOW DIVIDER -->
@@ -344,7 +343,7 @@
 <div align="center">
 
 <a href="https://github.com/exfador">
-<img height="190" src="https://github-readme-stats.vercel.app/api?username=exfador&show_icons=true&theme=radical&hide_border=false&border_color=BB54FF&bg_color=00000000&title_color=FF54D0&icon_color=BB54FF&text_color=ffffff&include_all_commits=true&count_private=true" />
+<img height="190" src="https://github-readme-stats.vercel.app/api?username=exfador&show_icons=true&theme=radical&hide_border=false&border_color=BB54FF&bg_color=00000000&title_color=FF54D0&icon_color=BB54FF&text_color=ffffff&include_all_commits=true&count_private=true&hide=stars" />
 <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=exfador&layout=compact&theme=radical&hide_border=false&border_color=BB54FF&bg_color=00000000&title_color=FF54D0&text_color=ffffff&langs_count=8" />
 </a>
 
