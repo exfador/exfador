@@ -8,36 +8,42 @@
 
 <div align="center">
 
-<!-- Animated header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24&height=240&section=header&text=EXFADOR&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20%E2%80%A2%20Telegram%20Bots%20%E2%80%A2%20FastAPI%20%E2%80%A2%20React&descAlignY=60&descSize=18" />
+<!-- ✦ ANIMATED IRIDESCENT HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:BB54FF,30:FF54D0,60:54BCFF,100:BB54FF&height=280&section=header&text=EXFADOR&fontSize=100&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Python%20%E2%80%A2%20Telegram%20%E2%80%A2%20FastAPI%20%E2%80%A2%20React&descAlignY=58&descSize=20&fontFamily=Comfortaa" />
 
-<!-- Typing intro -->
+<!-- ✦ TYPING SVG with gradient -->
 <a href="https://t.me/exfador">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=600&color=BB54FF&center=true&vCenter=true&width=800&lines=Telegram-%D0%B1%D0%BE%D1%82%D1%8B+%D0%BD%D0%B0+aiogram+3.x;%D0%9F%D0%B0%D1%80%D1%81%D0%B5%D1%80%D1%8B+%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82%D0%BF%D0%BB%D0%B5%D0%B9%D1%81%D0%BE%D0%B2+%E2%80%94+FunPay+%2F+PlayerOK+%2F+Kwork;FastAPI+%2B+PostgreSQL+%2B+Redis+%2B+WebSocket;React+18+%2B+Next.js+14+%2B+TypeScript+%2B+Tailwind;Chrome+%2F+Firefox+%2F+Edge+extensions+%E2%80%94+Manifest+V3;AI%3A+Groq+%E2%80%A2+OpenAI+%E2%80%A2+Anthropic+%E2%80%A2+RAG;20%2B+%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%BE%D0%B2+%D0%B2+%D0%BF%D1%80%D0%BE%D0%B4%D0%B5;%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%8B+%E2%86%92+%40exfador" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=600&color=BB54FF&background=00000000&center=true&vCenter=true&width=820&lines=Telegram-%D0%B1%D0%BE%D1%82%D1%8B+%D0%BD%D0%B0+aiogram+3.x;%D0%9F%D0%B0%D1%80%D1%81%D0%B5%D1%80%D1%8B+%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82%D0%BF%D0%BB%D0%B5%D0%B9%D1%81%D0%BE%D0%B2+%E2%80%94+FunPay+%2F+PlayerOK+%2F+Kwork;FastAPI+%2B+PostgreSQL+%2B+Redis+%2B+WebSocket;React+18+%2B+Next.js+14+%2B+TypeScript+%2B+Tailwind;Chrome+%2F+Firefox+%2F+Edge+extensions+%E2%80%94+Manifest+V3;AI%3A+Groq+%E2%80%A2+OpenAI+%E2%80%A2+Anthropic+%E2%80%A2+RAG;20%2B+%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%BE%D0%B2+%D0%B2+%D0%BF%D1%80%D0%BE%D0%B4%D0%B5;%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%8B+%E2%86%92+%40exfador" alt="Typing SVG" />
 </a>
 
+<br><br>
+
+<!-- ✦ STAT BADGES -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=exfador&label=Profile%20views&color=BB54FF&style=for-the-badge" alt="views" />
   <a href="https://github.com/exfador?tab=followers"><img src="https://img.shields.io/github/followers/exfador?label=Followers&style=for-the-badge&color=BB54FF&labelColor=12121A" alt="followers" /></a>
   <img src="https://img.shields.io/github/stars/exfador?label=Stars&style=for-the-badge&color=BB54FF&labelColor=12121A" alt="stars" />
 </p>
 
+<!-- ✦ ANIMATED RAINBOW DIVIDER -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+
 </div>
 
----
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Waving%20Hand.png" width="32" /> &nbsp;Привет, я **@exfador**
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" /> &nbsp;Привет, я **@exfador**
+<img align="right" height="180" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" />
 
 > Делаю Telegram-ботов и веб-приложения на Python.  
 > **20+ собственных и коммерческих проектов в проде.**
 
 <br>
 
-> 🎭 &nbsp;**Fullstack Python developer** — Telegram bots · marketplace parsers · FastAPI backends · React frontends
+> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Performing%20Arts.png" width="22" /> &nbsp;**Fullstack Python developer** — Telegram bots · marketplace parsers · FastAPI backends · React frontends
 >
-> 📊 &nbsp;**20+ projects in production** &nbsp;·&nbsp; ✅ Open to custom orders &nbsp;·&nbsp; 🌍 Remote · UTC+3
+> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="22" /> &nbsp;**20+ projects in production** &nbsp;·&nbsp; ✅ Open to custom orders &nbsp;·&nbsp; 🌍 Remote · UTC+3
 >
-> 💬 &nbsp;Orders → [**@exfador**](https://t.me/exfador) &nbsp;·&nbsp; 📢 Channel → [**@coxerhub**](https://t.me/coxerhub) &nbsp;·&nbsp; 💎 Sponsor → [**neversmm.com**](https://neversmm.com)
+> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Speech%20Balloon.png" width="22" /> &nbsp;Orders → [**@exfador**](https://t.me/exfador) &nbsp;·&nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Loudspeaker.png" width="22" /> &nbsp;Channel → [**@coxerhub**](https://t.me/coxerhub) &nbsp;·&nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" width="22" /> &nbsp;Sponsor → [**neversmm.com**](https://neversmm.com)
 
 <br>
 
@@ -75,7 +81,8 @@
 </tr>
 </table>
 
----
+<br>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 ## 🚀 &nbsp;Что умею
 
@@ -117,7 +124,8 @@
 - **Nginx** (reverse proxy, SSL через certbot), **systemd**-юниты
 - К коду — README с инструкцией запуска шаг-в-шаг
 
----
+<br>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 ## ❌ &nbsp;Что НЕ беру
 
@@ -128,7 +136,8 @@
 - 🎬 Видеомонтаж
 - 📝 Эссе, курсовые, рефераты
 
----
+<br>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -252,7 +261,8 @@
 </tr>
 </table>
 
----
+<br>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 ## 💼 &nbsp;Что чаще всего заказывают
 
@@ -287,36 +297,72 @@
 </tr>
 </table>
 
----
+<br>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
-## 📊 &nbsp;GitHub Stats
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" width="32" /> &nbsp;Inspiring quote of the day
 
 <div align="center">
 
-<a href="https://github.com/exfador">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=exfador&show_icons=true&theme=tokyonight&hide_border=true&bg_color=12121A&title_color=BB54FF&icon_color=BB54FF&text_color=ffffff&include_all_commits=true&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=exfador&layout=compact&theme=tokyonight&hide_border=true&bg_color=12121A&title_color=BB54FF&text_color=ffffff&langs_count=8" />
-</a>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&borderColor=BB54FF" />
+
+</div>
 
 <br>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="32" /> &nbsp;Premium summary cards
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=exfador&theme=radical" width="100%" />
+
+<table>
+<tr>
+<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=exfador&theme=radical" /></td>
+<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=exfador&theme=radical" /></td>
+</tr>
+<tr>
+<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=exfador&theme=radical" /></td>
+<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=exfador&theme=radical&utcOffset=3" /></td>
+</tr>
+</table>
+
+</div>
+
+<br>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="32" /> &nbsp;Classic stats — neon edition
+
+<div align="center">
 
 <a href="https://github.com/exfador">
-<img src="https://streak-stats.demolab.com?user=exfador&theme=tokyonight&hide_border=true&background=12121A&stroke=BB54FF&ring=BB54FF&fire=BB54FF&currStreakLabel=BB54FF" />
+<img height="190" src="https://github-readme-stats.vercel.app/api?username=exfador&show_icons=true&theme=radical&hide_border=false&border_color=BB54FF&bg_color=00000000&title_color=FF54D0&icon_color=BB54FF&text_color=ffffff&include_all_commits=true&count_private=true" />
+<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=exfador&layout=compact&theme=radical&hide_border=false&border_color=BB54FF&bg_color=00000000&title_color=FF54D0&text_color=ffffff&langs_count=8" />
+</a>
+
+<br><br>
+
+<a href="https://github.com/exfador">
+<img src="https://streak-stats.demolab.com?user=exfador&theme=radical&hide_border=false&border=BB54FF&background=00000000&stroke=BB54FF&ring=FF54D0&fire=FF54D0&currStreakLabel=BB54FF" />
 </a>
 
 </div>
 
----
+<br>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
-## 📈 &nbsp;Activity Graph
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="32" /> &nbsp;Activity Graph
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=exfador&theme=tokyo-night&bg_color=12121A&color=BB54FF&line=BB54FF&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20activity" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=exfador&theme=react-dark&bg_color=00000000&color=BB54FF&line=FF54D0&point=ffffff&area=true&hide_border=true&custom_title=Coding%20activity" />
 
 </div>
 
----
+<br>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 ## 💎 &nbsp;Sponsor
 
