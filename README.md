@@ -348,11 +348,18 @@
 <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=exfador&layout=compact&theme=radical&hide_border=false&border_color=BB54FF&bg_color=00000000&title_color=FF54D0&text_color=ffffff&langs_count=8" />
 </a>
 
-<br><br>
+<!--
+  STREAK CARD — temporarily disabled.
+  The public streak-stats.demolab.com instance hit its GitHub token pool limit
+  ("UNABLE TO SELECT NEXT GITHUB TOKEN FROM POOL"). Either wait until it
+  recovers, or self-host: https://github.com/DenverCoder1/github-readme-streak-stats
+  Deploy to Vercel, then replace `streak-stats.demolab.com` below with your URL.
 
-<a href="https://github.com/exfador">
-<img src="https://streak-stats.demolab.com?user=exfador&theme=radical&hide_border=false&border=BB54FF&background=00000000&stroke=BB54FF&ring=FF54D0&fire=FF54D0&currStreakLabel=BB54FF" />
-</a>
+  <br><br>
+  <a href="https://github.com/exfador">
+  <img src="https://streak-stats.demolab.com?user=exfador&theme=radical&hide_border=false&border=BB54FF&background=00000000&stroke=BB54FF&ring=FF54D0&fire=FF54D0&currStreakLabel=BB54FF" />
+  </a>
+-->
 
 </div>
 
