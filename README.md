@@ -35,19 +35,7 @@
 
 > 🎭 &nbsp;**Fullstack Python developer** — Telegram bots · marketplace parsers · FastAPI backends · React frontends
 >
-> ⚙️ &nbsp;**Backend** &nbsp; `FastAPI` &nbsp; `SQLAlchemy` &nbsp; `asyncpg` &nbsp; `Redis` &nbsp; `Alembic` &nbsp; `Pydantic`
->
-> 🎨 &nbsp;**Frontend** &nbsp; `React 18` &nbsp; `Next.js 14` &nbsp; `TypeScript` &nbsp; `Tailwind` &nbsp; `shadcn/ui` &nbsp; `Framer Motion`
->
-> ✈️ &nbsp;**Telegram** &nbsp; `aiogram 3.x` &nbsp; `Pyrogram` &nbsp; `Telethon` &nbsp; `Fragment API`
->
-> 🕷️ &nbsp;**Scraping** &nbsp; `curl-cffi` &nbsp; `Playwright` &nbsp; `proxy pools` &nbsp; `Cloudflare bypass`
->
-> 🤖 &nbsp;**AI** &nbsp; `Groq` &nbsp; `OpenAI` &nbsp; `Anthropic SDK` &nbsp; `RAG`
->
-> 🚀 &nbsp;**Deploy** &nbsp; `Docker` &nbsp; `docker-compose` &nbsp; `Nginx` &nbsp; `systemd` &nbsp; `VPS / Linux`
->
-> 📊 &nbsp;**20+ projects in production** &nbsp;·&nbsp; ✅ Open to custom orders
+> 📊 &nbsp;**20+ projects in production** &nbsp;·&nbsp; ✅ Open to custom orders &nbsp;·&nbsp; 🌍 Remote · UTC+3
 >
 > 💬 &nbsp;Orders → [**@exfador**](https://t.me/exfador) &nbsp;·&nbsp; 📢 Channel → [**@coxerhub**](https://t.me/coxerhub) &nbsp;·&nbsp; 💎 Sponsor → [**neversmm.com**](https://neversmm.com)
 
@@ -144,28 +132,125 @@
 
 ## 🛠 &nbsp;Tech Stack
 
-<div align="center">
+<table>
+<tr>
+<td valign="middle" align="center" width="160">
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,react,nextjs,typescript,tailwind,postgres,redis,docker,nginx,linux,git,github,vscode&theme=dark" />
-<br><br>
+#### ⚙️ Backend
+</td>
+<td>
 
-![aiogram](https://img.shields.io/badge/aiogram_3.x-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-![Pyrogram](https://img.shields.io/badge/Pyrogram-1C93E3?style=for-the-badge&logoColor=white)
-![Telethon](https://img.shields.io/badge/Telethon-2CA5E0?style=for-the-badge&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logoColor=white)
-![asyncpg](https://img.shields.io/badge/asyncpg-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Alembic](https://img.shields.io/badge/Alembic-6CA0DC?style=for-the-badge&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![curl--cffi](https://img.shields.io/badge/curl--cffi-073551?style=for-the-badge&logo=curl&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white)
+<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" title="Python" />&nbsp;
+<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="FastAPI" title="FastAPI" />&nbsp;
+<img height="48" src="https://www.vectorlogo.zone/logos/sqlalchemy/sqlalchemy-icon.svg" alt="SQLAlchemy" title="SQLAlchemy" />&nbsp;
+<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL / asyncpg" title="PostgreSQL / asyncpg" />&nbsp;
+<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" alt="Redis" title="Redis" />&nbsp;
+<img height="48" src="https://cdn.simpleicons.org/pydantic/E92063" alt="Pydantic" title="Pydantic" />&nbsp;
+<img height="48" src="https://img.shields.io/badge/Alembic-6CA0DC?style=for-the-badge&logoColor=white" alt="Alembic" />
 
-</div>
+</td>
+</tr>
+
+<tr>
+<td valign="middle" align="center" width="160">
+
+#### 🎨 Frontend
+</td>
+<td>
+
+<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" title="React" />&nbsp;
+<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" title="Next.js" style="background-color:#fff;border-radius:8px" />&nbsp;
+<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" />&nbsp;
+<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" title="Tailwind CSS" />&nbsp;
+<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="Vite" title="Vite" />&nbsp;
+<img height="48" src="https://cdn.simpleicons.org/shadcnui/ffffff" alt="shadcn/ui" title="shadcn/ui" />&nbsp;
+<img height="48" src="https://cdn.simpleicons.org/framer/0055FF" alt="Framer Motion" title="Framer Motion" />
+
+</td>
+</tr>
+
+<tr>
+<td valign="middle" align="center" width="160">
+
+#### ✈️ Telegram
+</td>
+<td>
+
+<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/telegram/telegram-original.svg" alt="Telegram" title="Telegram" />&nbsp;
+<img height="48" src="https://img.shields.io/badge/aiogram_3.x-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="aiogram" />
+<img height="48" src="https://img.shields.io/badge/Pyrogram-1C93E3?style=for-the-badge&logo=telegram&logoColor=white" alt="Pyrogram" />
+<img height="48" src="https://img.shields.io/badge/Telethon-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telethon" />
+<img height="48" src="https://img.shields.io/badge/Fragment_API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Fragment API" />
+
+</td>
+</tr>
+
+<tr>
+<td valign="middle" align="center" width="160">
+
+#### 🕷️ Scraping
+</td>
+<td>
+
+<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" alt="Playwright" title="Playwright" />&nbsp;
+<img height="48" src="https://cdn.simpleicons.org/curl/073551" alt="curl-cffi" title="curl-cffi" />&nbsp;
+<img height="48" src="https://cdn.simpleicons.org/cloudflare/F38020" alt="Cloudflare bypass" title="Cloudflare bypass" />&nbsp;
+<img height="48" src="https://cdn.simpleicons.org/selenium/43B02A" alt="Selenium" title="Selenium" />&nbsp;
+<img height="48" src="https://cdn.simpleicons.org/beautifulsoup/337AB7" alt="BeautifulSoup" title="BeautifulSoup" />
+
+</td>
+</tr>
+
+<tr>
+<td valign="middle" align="center" width="160">
+
+#### 🤖 AI
+</td>
+<td>
+
+<img height="48" src="https://cdn.simpleicons.org/openai/ffffff" alt="OpenAI" title="OpenAI" />&nbsp;
+<img height="48" src="https://cdn.simpleicons.org/anthropic/d97757" alt="Anthropic" title="Anthropic SDK" />&nbsp;
+<img height="48" src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white" alt="Groq" />
+<img height="48" src="https://img.shields.io/badge/RAG-BB54FF?style=for-the-badge&logoColor=white" alt="RAG" />
+<img height="48" src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="LangChain" title="LangChain" />
+
+</td>
+</tr>
+
+<tr>
+<td valign="middle" align="center" width="160">
+
+#### 🚀 Deploy
+</td>
+<td>
+
+<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" title="Docker" />&nbsp;
+<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" alt="Nginx" title="Nginx" />&nbsp;
+<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" title="Linux" />&nbsp;
+<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" title="Ubuntu" />&nbsp;
+<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="Bash" title="Bash" />&nbsp;
+<img height="48" src="https://cdn.simpleicons.org/systemd/30638E" alt="systemd" title="systemd" />
+
+</td>
+</tr>
+
+<tr>
+<td valign="middle" align="center" width="160">
+
+#### 🧰 Tools
+</td>
+<td>
+
+<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" title="Git" />&nbsp;
+<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" title="GitHub" style="background-color:#fff;border-radius:8px" />&nbsp;
+<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code" title="VS Code" />&nbsp;
+<img height="48" src="https://cdn.simpleicons.org/cursor/000000" alt="Cursor" title="Cursor" style="background-color:#fff;border-radius:8px" />&nbsp;
+<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="Postman" title="Postman" />&nbsp;
+<img height="48" src="https://cdn.simpleicons.org/jetbrains/000000" alt="JetBrains" title="JetBrains" style="background-color:#fff;border-radius:8px" />
+
+</td>
+</tr>
+</table>
 
 ---
 
