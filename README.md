@@ -31,21 +31,20 @@
 > Делаю Telegram-ботов и веб-приложения на Python.  
 > **20+ собственных и коммерческих проектов в проде.**
 
-```python
-class Exfador:
-    role         = "Fullstack Python developer"
-    focus        = ["Telegram bots", "marketplace parsers", "FastAPI backends", "React frontends"]
-    backend      = ["FastAPI", "SQLAlchemy", "asyncpg", "Redis", "Alembic"]
-    frontend     = ["React 18", "Next.js 14", "TypeScript", "Tailwind", "shadcn/ui", "Framer Motion"]
-    telegram     = ["aiogram 3.x", "Pyrogram", "Telethon", "Fragment API"]
-    scraping     = ["curl-cffi", "Playwright", "proxy pools", "Cloudflare bypass"]
-    ai           = ["Groq", "OpenAI", "Anthropic SDK", "RAG"]
-    deploy       = ["Docker", "docker-compose", "Nginx", "systemd", "VPS / Linux"]
-    in_prod      = 20
-    contact      = "t.me/exfador"
-    channel      = "t.me/coxerhub"
-    accepting    = True
-```
+<table>
+<tr><td>🎭</td><td><b>role</b></td><td>Fullstack Python developer</td></tr>
+<tr><td>🎯</td><td><b>focus</b></td><td>Telegram bots · marketplace parsers · FastAPI backends · React frontends</td></tr>
+<tr><td>⚙️</td><td><b>backend</b></td><td>FastAPI · SQLAlchemy · asyncpg · Redis · Alembic</td></tr>
+<tr><td>🎨</td><td><b>frontend</b></td><td>React 18 · Next.js 14 · TypeScript · Tailwind · shadcn/ui · Framer Motion</td></tr>
+<tr><td>✈️</td><td><b>telegram</b></td><td>aiogram 3.x · Pyrogram · Telethon · Fragment API</td></tr>
+<tr><td>🕷️</td><td><b>scraping</b></td><td>curl-cffi · Playwright · proxy pools · Cloudflare bypass</td></tr>
+<tr><td>🤖</td><td><b>ai</b></td><td>Groq · OpenAI · Anthropic SDK · RAG</td></tr>
+<tr><td>🚀</td><td><b>deploy</b></td><td>Docker · docker-compose · Nginx · systemd · VPS / Linux</td></tr>
+<tr><td>📊</td><td><b>in&nbsp;prod</b></td><td><b>20+</b> projects</td></tr>
+<tr><td>💬</td><td><b>contact</b></td><td><a href="https://t.me/exfador">t.me/exfador</a></td></tr>
+<tr><td>📢</td><td><b>channel</b></td><td><a href="https://t.me/coxerhub">t.me/coxerhub</a></td></tr>
+<tr><td>✅</td><td><b>accepting</b></td><td><code>True</code></td></tr>
+</table>
 
 <br>
 
@@ -217,18 +216,6 @@ class Exfador:
 
 ---
 
-## 🏆 &nbsp;Trophies
-
-<div align="center">
-
-<a href="https://github.com/exfador">
-<img src="https://github-profile-trophy.vercel.app/?username=exfador&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" />
-</a>
-
-</div>
-
----
-
 ## 📈 &nbsp;Activity Graph
 
 <div align="center">
@@ -236,21 +223,6 @@ class Exfador:
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=exfador&theme=tokyo-night&bg_color=12121A&color=BB54FF&line=BB54FF&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20activity" />
 
 </div>
-
----
-
-## 🐍 &nbsp;Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/exfador/exfador/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="snake" src="https://raw.githubusercontent.com/exfador/exfador/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
-
-<sub>генерится через GitHub Action — инструкция ниже под `<!-- setup -->`</sub>
 
 ---
 
@@ -288,46 +260,4 @@ class Exfador:
 
 </div>
 
-<!--
-================================================================
-   SETUP INSTRUCTIONS
 
-   1. Создай репозиторий с именем = твой GitHub username.
-      Например, ник exfador → создай github.com/exfador/exfador
-      ВАЖНО: репо должно быть Public.
-
-   2. Скопируй этот файл туда как README.md
-      Замени все 'exfador' на свой реальный username (если другой).
-
-   3. Закоммить и push.
-
-   4. (опционально) Включи змейку: создай файл
-      .github/workflows/snake.yml в репо со следующим содержимым:
-
-      name: Generate Snake
-      on:
-        schedule:
-          - cron: "0 */24 * * *"
-        workflow_dispatch:
-      permissions:
-        contents: write
-      jobs:
-        generate:
-          runs-on: ubuntu-latest
-          steps:
-            - uses: Platane/snk/svg-only@v3
-              with:
-                github_user_name: ${{ github.repository_owner }}
-                outputs: |
-                  dist/github-contribution-grid-snake.svg
-                  dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            - uses: crazy-max/ghaction-github-pages@v3
-              with:
-                target_branch: output
-                build_dir: dist
-              env:
-                GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-   5. Готово. Профиль github.com/<твой_ник> покажет этот README.
-================================================================
--->
