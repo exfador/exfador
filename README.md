@@ -31,20 +31,27 @@
 > Делаю Telegram-ботов и веб-приложения на Python.  
 > **20+ собственных и коммерческих проектов в проде.**
 
-<table>
-<tr><td>🎭</td><td><b>role</b></td><td>Fullstack Python developer</td></tr>
-<tr><td>🎯</td><td><b>focus</b></td><td>Telegram bots · marketplace parsers · FastAPI backends · React frontends</td></tr>
-<tr><td>⚙️</td><td><b>backend</b></td><td>FastAPI · SQLAlchemy · asyncpg · Redis · Alembic</td></tr>
-<tr><td>🎨</td><td><b>frontend</b></td><td>React 18 · Next.js 14 · TypeScript · Tailwind · shadcn/ui · Framer Motion</td></tr>
-<tr><td>✈️</td><td><b>telegram</b></td><td>aiogram 3.x · Pyrogram · Telethon · Fragment API</td></tr>
-<tr><td>🕷️</td><td><b>scraping</b></td><td>curl-cffi · Playwright · proxy pools · Cloudflare bypass</td></tr>
-<tr><td>🤖</td><td><b>ai</b></td><td>Groq · OpenAI · Anthropic SDK · RAG</td></tr>
-<tr><td>🚀</td><td><b>deploy</b></td><td>Docker · docker-compose · Nginx · systemd · VPS / Linux</td></tr>
-<tr><td>📊</td><td><b>in&nbsp;prod</b></td><td><b>20+</b> projects</td></tr>
-<tr><td>💬</td><td><b>contact</b></td><td><a href="https://t.me/exfador">t.me/exfador</a></td></tr>
-<tr><td>📢</td><td><b>channel</b></td><td><a href="https://t.me/coxerhub">t.me/coxerhub</a></td></tr>
-<tr><td>✅</td><td><b>accepting</b></td><td><code>True</code></td></tr>
-</table>
+<br>
+
+> 🎭 &nbsp;**Fullstack Python developer** — Telegram bots · marketplace parsers · FastAPI backends · React frontends
+>
+> ⚙️ &nbsp;**Backend** &nbsp; `FastAPI` &nbsp; `SQLAlchemy` &nbsp; `asyncpg` &nbsp; `Redis` &nbsp; `Alembic` &nbsp; `Pydantic`
+>
+> 🎨 &nbsp;**Frontend** &nbsp; `React 18` &nbsp; `Next.js 14` &nbsp; `TypeScript` &nbsp; `Tailwind` &nbsp; `shadcn/ui` &nbsp; `Framer Motion`
+>
+> ✈️ &nbsp;**Telegram** &nbsp; `aiogram 3.x` &nbsp; `Pyrogram` &nbsp; `Telethon` &nbsp; `Fragment API`
+>
+> 🕷️ &nbsp;**Scraping** &nbsp; `curl-cffi` &nbsp; `Playwright` &nbsp; `proxy pools` &nbsp; `Cloudflare bypass`
+>
+> 🤖 &nbsp;**AI** &nbsp; `Groq` &nbsp; `OpenAI` &nbsp; `Anthropic SDK` &nbsp; `RAG`
+>
+> 🚀 &nbsp;**Deploy** &nbsp; `Docker` &nbsp; `docker-compose` &nbsp; `Nginx` &nbsp; `systemd` &nbsp; `VPS / Linux`
+>
+> 📊 &nbsp;**20+ projects in production** &nbsp;·&nbsp; ✅ Open to custom orders
+>
+> 💬 &nbsp;Orders → [**@exfador**](https://t.me/exfador) &nbsp;·&nbsp; 📢 Channel → [**@coxerhub**](https://t.me/coxerhub) &nbsp;·&nbsp; 💎 Sponsor → [**neversmm.com**](https://neversmm.com)
+
+<br>
 
 <br>
 
@@ -260,4 +267,15 @@
 
 </div>
 
+<!--
+================================================================
+   SETUP
+   1. Создай PUBLIC репо с именем = твой GitHub username
+      (например: github.com/exfador/exfador)
+   2. Скопируй этот файл туда как README.md
+   3. Замени все 'exfador' на твой реальный username (если другой)
+   4. Commit + push → готово
+   Все картинки динамические, обновляются автоматически.
+================================================================
+-->
 
