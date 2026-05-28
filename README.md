@@ -34,57 +34,26 @@
 
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="32" /> &nbsp;Привет, я **@exfador**
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="38" />
+  &nbsp;Привет, я <code>@exfador</code>
+</h2>
 
-<img align="right" height="180" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" />
+<p align="center">
+  <b>Fullstack Python developer</b> &nbsp;·&nbsp; UTC +3 &nbsp;·&nbsp; Remote<br>
+  Делаю Telegram-ботов, парсеры маркетплейсов, FastAPI бэкенды и React-фронты.<br>
+  <b>20+ проектов в проде.</b> &nbsp;·&nbsp; Беру кастомные заказы.
+</p>
 
-> Делаю Telegram-ботов и веб-приложения на Python.  
-> **20+ собственных и коммерческих проектов в проде.**
-
-<br>
-
-> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Performing%20Arts.png" width="22" /> &nbsp;**Fullstack Python developer** — Telegram bots · marketplace parsers · FastAPI backends · React frontends
->
-> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="22" /> &nbsp;**20+ projects in production** &nbsp;·&nbsp; ✅ Open to custom orders &nbsp;·&nbsp; 🌍 Remote · UTC+3
->
-> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Speech%20Balloon.png" width="22" /> &nbsp;Orders → [**@exfador**](https://t.me/exfador) &nbsp;·&nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Loudspeaker.png" width="22" /> &nbsp;Channel → [**@coxerhub**](https://t.me/coxerhub) &nbsp;·&nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" width="22" /> &nbsp;Sponsor → [**neversmm.com**](https://neversmm.com)
+<p align="center">
+  <a href="https://t.me/exfador"><img src="https://img.shields.io/badge/Orders-%40exfador-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=12121A" /></a>
+  &nbsp;
+  <a href="https://t.me/coxerhub"><img src="https://img.shields.io/badge/Channel-%40coxerhub-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=12121A" /></a>
+  &nbsp;
+  <a href="https://neversmm.com"><img src="https://img.shields.io/badge/Sponsor-neversmm.com-FF3366?style=for-the-badge&labelColor=12121A" /></a>
+</p>
 
 
-<br>
-
-<br>
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-### 💬 Заказы
-<a href="https://t.me/exfador">
-<img src="https://img.shields.io/badge/@exfador-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-</a><br>
-кастомный софт<br>под твою задачу
-
-</td>
-<td align="center" width="33%">
-
-### 📢 Канал
-<a href="https://t.me/coxerhub">
-<img src="https://img.shields.io/badge/@coxerhub-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-</a><br>
-релизы, новости,<br>бесплатный софт
-
-</td>
-<td align="center" width="33%">
-
-### 💎 Спонсор
-<a href="https://neversmm.com">
-<img src="https://img.shields.io/badge/neversmm.com-FF3366?style=for-the-badge" />
-</a><br>
-самая дешёвая<br>SMM-биржа
-
-</td>
-</tr>
-</table>
 
 <br>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
