@@ -30,7 +30,7 @@
 
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Waving%20Hand.png" width="32" /> &nbsp;Привет, я **@exfador**
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="32" /> &nbsp;Привет, я **@exfador**
 
 <img align="right" height="180" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" />
 
@@ -39,11 +39,12 @@
 
 <br>
 
-> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Performing%20Arts.png" width="22" /> &nbsp;**Fullstack Python developer** — Telegram bots · marketplace parsers · FastAPI backends · React frontends
+> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Performing%20Arts.png" width="22" /> &nbsp;**Fullstack Python developer** — Telegram bots · marketplace parsers · FastAPI backends · React frontends
 >
 > <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="22" /> &nbsp;**20+ projects in production** &nbsp;·&nbsp; ✅ Open to custom orders &nbsp;·&nbsp; 🌍 Remote · UTC+3
 >
 > <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Speech%20Balloon.png" width="22" /> &nbsp;Orders → [**@exfador**](https://t.me/exfador) &nbsp;·&nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Loudspeaker.png" width="22" /> &nbsp;Channel → [**@coxerhub**](https://t.me/coxerhub) &nbsp;·&nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" width="22" /> &nbsp;Sponsor → [**neversmm.com**](https://neversmm.com)
+
 
 <br>
 
@@ -151,7 +152,7 @@
 
 <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" title="Python" />&nbsp;
 <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="FastAPI" title="FastAPI" />&nbsp;
-<img height="48" src="https://www.vectorlogo.zone/logos/sqlalchemy/sqlalchemy-icon.svg" alt="SQLAlchemy" title="SQLAlchemy" />&nbsp;
+<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" alt="SQLAlchemy" title="SQLAlchemy" />&nbsp;
 <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL / asyncpg" title="PostgreSQL / asyncpg" />&nbsp;
 <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" alt="Redis" title="Redis" />&nbsp;
 <img height="48" src="https://cdn.simpleicons.org/pydantic/E92063" alt="Pydantic" title="Pydantic" />&nbsp;
@@ -185,7 +186,7 @@
 </td>
 <td>
 
-<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/telegram/telegram-original.svg" alt="Telegram" title="Telegram" />&nbsp;
+<img height="48" src="https://cdn.simpleicons.org/telegram/26A5E4" alt="Telegram" title="Telegram" />&nbsp;
 <img height="48" src="https://img.shields.io/badge/aiogram_3.x-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="aiogram" />
 <img height="48" src="https://img.shields.io/badge/Pyrogram-1C93E3?style=for-the-badge&logo=telegram&logoColor=white" alt="Pyrogram" />
 <img height="48" src="https://img.shields.io/badge/Telethon-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telethon" />
@@ -205,7 +206,7 @@
 <img height="48" src="https://cdn.simpleicons.org/curl/073551" alt="curl-cffi" title="curl-cffi" />&nbsp;
 <img height="48" src="https://cdn.simpleicons.org/cloudflare/F38020" alt="Cloudflare bypass" title="Cloudflare bypass" />&nbsp;
 <img height="48" src="https://cdn.simpleicons.org/selenium/43B02A" alt="Selenium" title="Selenium" />&nbsp;
-<img height="48" src="https://cdn.simpleicons.org/beautifulsoup/337AB7" alt="BeautifulSoup" title="BeautifulSoup" />
+<img height="48" src="https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge&logo=python&logoColor=white" alt="BeautifulSoup" />
 
 </td>
 </tr>
@@ -217,7 +218,7 @@
 </td>
 <td>
 
-<img height="48" src="https://cdn.simpleicons.org/openai/ffffff" alt="OpenAI" title="OpenAI" />&nbsp;
+<img height="48" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/openai.svg" alt="OpenAI" title="OpenAI" style="background-color:#fff;border-radius:8px" />&nbsp;
 <img height="48" src="https://cdn.simpleicons.org/anthropic/d97757" alt="Anthropic" title="Anthropic SDK" />&nbsp;
 <img height="48" src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white" alt="Groq" />
 <img height="48" src="https://img.shields.io/badge/RAG-BB54FF?style=for-the-badge&logoColor=white" alt="RAG" />
@@ -238,7 +239,7 @@
 <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" title="Linux" />&nbsp;
 <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" title="Ubuntu" />&nbsp;
 <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="Bash" title="Bash" />&nbsp;
-<img height="48" src="https://cdn.simpleicons.org/systemd/30638E" alt="systemd" title="systemd" />
+<img height="48" src="https://img.shields.io/badge/systemd-30638E?style=for-the-badge&logoColor=white" alt="systemd" />
 
 </td>
 </tr>
