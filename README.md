@@ -1,295 +1,310 @@
 <!--
 ================================================================
    GitHub Profile README for @exfador
-   Replace `exfador` everywhere below with your actual GitHub username.
-   Put this file as README.md in github.com/<user>/<user>
+   Файл лежит в репозитории github.com/exfador/exfador как README.md
+   Все картинки динамические — обновляются сами.
 ================================================================
 -->
 
 <div align="center">
 
+<br>
+
+<!-- ✦ ИМЯ С ПЕЧАТНОЙ АНИМАЦИЕЙ -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=78&pause=1000&color=BB54FF&background=00000000&center=true&vCenter=true&width=900&height=120&lines=EXFADOR" alt="EXFADOR" />
+
+<!-- ✦ ПОДЗАГОЛОВОК -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=2000&color=FF54D0&background=00000000&center=true&vCenter=true&width=620&height=40&lines=fullstack+python+developer;async+%2F+telegram+%2F+scraping+%2F+web" alt="subtitle" />
+
+<br>
+
+<!-- ✦ ТЕРМИНАЛЬНЫЕ СТРОКИ -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&pause=1500&color=54BCFF&background=00000000&center=true&vCenter=true&width=840&height=55&lines=%3E+building+bots%2C+parsers%2C+backends%2C+frontends;%3E+20%2B+projects+shipped+to+production;%3E+open+for+custom+orders+%E2%86%92+%40exfador" alt="terminal" />
+
 <br><br>
 
-<!-- ✦ HUGE NAME WITH TYPING -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=80&pause=1000&color=BB54FF&background=00000000&center=true&vCenter=true&width=900&height=120&lines=EXFADOR" alt="EXFADOR" />
-
-<!-- ✦ SUBTITLE -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=2000&color=FF54D0&background=00000000&center=true&vCenter=true&width=600&height=40&lines=async+python+developer" />
+<!-- ✦ БЕЙДЖИ-СЧЁТЧИКИ -->
+<img src="https://komarev.com/ghpvc/?username=exfador&label=Profile%20views&color=BB54FF&style=for-the-badge" alt="views" />
+<a href="https://github.com/exfador?tab=followers"><img src="https://img.shields.io/github/followers/exfador?label=Followers&style=for-the-badge&color=BB54FF&labelColor=12121A" alt="followers" /></a>
 
 <br><br>
 
-<!-- ✦ TERMINAL-STYLE LINES -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1500&color=54BCFF&background=00000000&center=true&vCenter=true&width=820&height=60&lines=%3E+building+bots%2C+parsers%2C+backends%2C+frontends;%3E+20%2B+projects+in+production;%3E+open+to+custom+orders+%E2%86%92+%40exfador" />
+<!-- ✦ БЫСТРЫЕ ССЫЛКИ -->
+<a href="https://t.me/exfador"><img src="https://img.shields.io/badge/Заказать-%40exfador-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=12121A" alt="orders" /></a>
+<a href="https://t.me/coxerhub"><img src="https://img.shields.io/badge/Канал-%40coxerhub-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=12121A" alt="channel" /></a>
+<a href="https://neversmm.com"><img src="https://img.shields.io/badge/Спонсор-neversmm.com-FF3366?style=for-the-badge&labelColor=12121A" alt="sponsor" /></a>
 
-<br><br>
+<br>
 
-<!-- ✦ STAT BADGES -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=exfador&label=Profile%20views&color=BB54FF&style=for-the-badge" alt="views" />
-  <a href="https://github.com/exfador?tab=followers"><img src="https://img.shields.io/github/followers/exfador?label=Followers&style=for-the-badge&color=BB54FF&labelColor=12121A" alt="followers" /></a>
-</p>
-
-<!-- ✦ ANIMATED RAINBOW DIVIDER -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 </div>
 
 <h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="38" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="34" />
   &nbsp;Привет, я <code>@exfador</code>
 </h2>
 
 <p align="center">
-  <b>Fullstack Python developer</b> &nbsp;·&nbsp; UTC +3 &nbsp;·&nbsp; Remote<br>
-  Делаю Telegram-ботов, парсеры маркетплейсов, FastAPI бэкенды и React-фронты.<br>
-  <b>20+ проектов в проде.</b> &nbsp;·&nbsp; Беру кастомные заказы.
+  <b>Fullstack Python-разработчик</b> &nbsp;·&nbsp; UTC&nbsp;+3 &nbsp;·&nbsp; Remote<br>
+  Telegram-боты, парсеры маркетплейсов, FastAPI-бэкенды и React-фронты под ключ.<br>
+  <b>20+ проектов в проде</b> &nbsp;·&nbsp; беру кастомные заказы &nbsp;·&nbsp; код с README и гарантией.
 </p>
-
-<p align="center">
-  <a href="https://t.me/exfador"><img src="https://img.shields.io/badge/Orders-%40exfador-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=12121A" /></a>
-  &nbsp;
-  <a href="https://t.me/coxerhub"><img src="https://img.shields.io/badge/Channel-%40coxerhub-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=12121A" /></a>
-  &nbsp;
-  <a href="https://neversmm.com"><img src="https://img.shields.io/badge/Sponsor-neversmm.com-FF3366?style=for-the-badge&labelColor=12121A" /></a>
-</p>
-
-
 
 <br>
+
+<!-- ════════════════ ПОЧЕМУ Я ════════════════ -->
+
+## 💡 &nbsp;Почему со мной удобно
+
+<table align="center">
+<tr align="center">
+<td width="33%">
+
+### ⚡ Быстро
+Понятная оценка по ТЗ,<br>прозрачные сроки,<br>без «потом доделаю».
+
+</td>
+<td width="33%">
+
+### 🧱 Надёжно
+Чистая архитектура,<br>Docker, тесты,<br>README для запуска.
+
+</td>
+<td width="33%">
+
+### 🛡 С гарантией
+Правки после сдачи,<br>исходники у тебя,<br>поддержка на связи.
+
+</td>
+</tr>
+</table>
+
+<div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>
+
+<!-- ════════════════ ЧТО УМЕЮ ════════════════ -->
 
 ## 🚀 &nbsp;Что умею
 
-### <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="22" /> &nbsp;Telegram-боты любой сложности
-- **aiogram 3.x** — магазины с интеграцией **CryptoBot · FreeKassa · YooKassa**
-- FSM-сценарии, админ-панели, рассылки, инлайн-кнопки, **Web App** кнопки
-- Premium-подписки, реферальные системы, **Fragment API** (продажа username/звёзд)
-- Парсинг каналов / чатов, авто-постинг, антиспам-модерация
+**🤖 Telegram-боты любой сложности** — `aiogram 3.x`, магазины с оплатой **CryptoBot · YooKassa · FreeKassa**, FSM-сценарии, админ-панели, рассылки, инлайн- и **Web App**-кнопки, premium-подписки, реферальные системы, **Fragment API** (username / звёзды), парсинг каналов и авто-постинг.
 
-### <img src="https://cdn-icons-png.flaticon.com/512/2111/2111714.png" width="22" /> &nbsp;Парсеры и автоматизация маркетплейсов
-- **FunPay · PlayerOK · Starvell · Kwork** — авто-выкладка, авто-доставка, авто-ответы
-- Обход CloudFlare через **curl-cffi** (TLS-fingerprinting)
-- JS-рендеринг через **Playwright** для динамических страниц
-- Прокси-пулы с ротацией, smart retry, обработка капчи
+**🕷️ Парсеры и автоматизация маркетплейсов** — **FunPay · PlayerOK · Starvell · Kwork**: авто-выкладка, авто-доставка, авто-ответы. Обход CloudFlare через **curl-cffi** (TLS-fingerprinting), JS-рендеринг через **Playwright**, прокси-пулы с ротацией, smart-retry, обработка капчи.
 
-### <img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" width="22" /> &nbsp;Бэкенд на FastAPI
-- **REST + WebSocket**, JWT-авторизация
-- **async PostgreSQL** (SQLAlchemy 2.x + asyncpg), Alembic-миграции
-- **Redis** для кеша, очередей, сессий
-- Чистая архитектура: routers / services / repositories / schemas
+**⚙️ Бэкенд на FastAPI** — REST + WebSocket, JWT-авторизация, **async PostgreSQL** (SQLAlchemy 2.x + asyncpg), Alembic-миграции, **Redis** для кеша / очередей / сессий. Чистая архитектура: routers → services → repositories → schemas.
 
-### <img src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png" width="22" /> &nbsp;Фронтенд
-- **React 18 + Vite + TypeScript + Tailwind + shadcn/ui** — основной стек
-- **Next.js 14** для SSR / SEO
-- **Framer Motion** для красивых анимаций
-- Полностью адаптивно под все устройства
+**🎨 Фронтенд** — основной стек **React 18 + Vite + TypeScript + Tailwind + shadcn/ui**, **Next.js 14** для SSR/SEO, **Framer Motion** для анимаций, полная адаптивность под все устройства.
 
-### <img src="https://cdn-icons-png.flaticon.com/512/888/888846.png" width="22" /> &nbsp;Браузерные расширения
-- **Manifest V3** — Chrome, Firefox, Edge
-- Content scripts, background workers, options page, popup
+**🧩 Браузерные расширения** — **Manifest V3** (Chrome · Firefox · Edge): content scripts, background workers, options page, popup.
 
-### <img src="https://cdn-icons-png.flaticon.com/512/8649/8649595.png" width="22" /> &nbsp;AI-интеграции
-- **Groq · OpenAI · Anthropic SDK** — продакшен-готовая обвязка
-- **RAG**-пайплайны (vector store, embeddings, retrieval)
-- Стриминг, function calling, tool use
+**🧠 AI-интеграции** — **OpenAI · Anthropic · Groq SDK** в проде, **RAG**-пайплайны (vector store, embeddings, retrieval), стриминг, function calling, tool use.
 
-### <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" width="22" /> &nbsp;Деплой и сопровождение
-- **Docker + docker-compose** на VPS под Linux
-- **Nginx** (reverse proxy, SSL через certbot), **systemd**-юниты
-- К коду — README с инструкцией запуска шаг-в-шаг
+**📦 Деплой и сопровождение** — **Docker + docker-compose** на VPS под Linux, **Nginx** (reverse proxy, SSL через certbot), **systemd**-юниты, к коду — README с пошаговым запуском.
 
-<br>
+<div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>
+
+<!-- ════════════════ ЧТО НЕ БЕРУ ════════════════ -->
 
 ## ❌ &nbsp;Что НЕ беру
 
 > чтобы не тратить твоё время:
 
-- 📵 Нативная мобильная разработка (Android / iOS)
-- 🧊 3D-моделинг
-- 🎬 Видеомонтаж
-- 📝 Эссе, курсовые, рефераты
+`📵 Нативная мобилка (Android / iOS)` &nbsp; `🧊 3D-моделинг` &nbsp; `🎬 Видеомонтаж` &nbsp; `📝 Эссе / курсовые / рефераты`
 
-<br>
+<div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>
+
+<!-- ════════════════ TECH STACK ════════════════ -->
 
 ## 🛠 &nbsp;Tech Stack
 
 <table>
 <tr>
-<td valign="middle" align="center" width="160">
+<td valign="middle" align="right" width="150">
 
 #### ⚙️ Backend
 </td>
 <td>
 
-<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" title="Python" />&nbsp;
-<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="FastAPI" title="FastAPI" />&nbsp;
-<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" alt="SQLAlchemy" title="SQLAlchemy" />&nbsp;
-<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL / asyncpg" title="PostgreSQL / asyncpg" />&nbsp;
-<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" alt="Redis" title="Redis" />&nbsp;
-<img height="48" src="https://cdn.simpleicons.org/pydantic/E92063" alt="Pydantic" title="Pydantic" />&nbsp;
-<img height="48" src="https://img.shields.io/badge/Alembic-6CA0DC?style=for-the-badge&logoColor=white" alt="Alembic" />
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,fastapi,postgres,redis&theme=dark" height="44" /></a>
+<br>
+<img src="https://img.shields.io/badge/SQLAlchemy_2.x-D71F00?style=flat-square&labelColor=0D1117&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/asyncpg-2F6792?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&labelColor=0D1117&logo=pydantic&logoColor=white" />
+<img src="https://img.shields.io/badge/Alembic-6CA0DC?style=flat-square&labelColor=0D1117" />
 
 </td>
 </tr>
 
 <tr>
-<td valign="middle" align="center" width="160">
+<td valign="middle" align="right" width="150">
 
 #### 🎨 Frontend
 </td>
 <td>
 
-<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" title="React" />&nbsp;
-<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" title="Next.js" style="background-color:#fff;border-radius:8px" />&nbsp;
-<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" />&nbsp;
-<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" title="Tailwind CSS" />&nbsp;
-<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="Vite" title="Vite" />&nbsp;
-<img height="48" src="https://cdn.simpleicons.org/shadcnui/ffffff" alt="shadcn/ui" title="shadcn/ui" />&nbsp;
-<img height="48" src="https://cdn.simpleicons.org/framer/0055FF" alt="Framer Motion" title="Framer Motion" />
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,vite&theme=dark" height="44" /></a>
+<br>
+<img src="https://img.shields.io/badge/shadcn%2Fui-0D1117?style=flat-square&labelColor=0D1117&logo=shadcnui&logoColor=white" />
+<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&labelColor=0D1117&logo=framer&logoColor=white" />
 
 </td>
 </tr>
 
 <tr>
-<td valign="middle" align="center" width="160">
+<td valign="middle" align="right" width="150">
 
 #### ✈️ Telegram
 </td>
 <td>
 
-<img height="48" src="https://cdn.simpleicons.org/telegram/26A5E4" alt="Telegram" title="Telegram" />&nbsp;
-<img height="48" src="https://img.shields.io/badge/aiogram_3.x-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="aiogram" />
-<img height="48" src="https://img.shields.io/badge/Pyrogram-1C93E3?style=for-the-badge&logo=telegram&logoColor=white" alt="Pyrogram" />
-<img height="48" src="https://img.shields.io/badge/Telethon-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telethon" />
-<img height="48" src="https://img.shields.io/badge/Fragment_API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Fragment API" />
+<img src="https://img.shields.io/badge/aiogram_3.x-2CA5E0?style=flat-square&labelColor=0D1117&logo=telegram&logoColor=white" />
+<img src="https://img.shields.io/badge/Pyrogram-1C93E3?style=flat-square&labelColor=0D1117&logo=telegram&logoColor=white" />
+<img src="https://img.shields.io/badge/Telethon-2CA5E0?style=flat-square&labelColor=0D1117&logo=telegram&logoColor=white" />
+<img src="https://img.shields.io/badge/Fragment_API-26A5E4?style=flat-square&labelColor=0D1117&logo=telegram&logoColor=white" />
 
 </td>
 </tr>
 
 <tr>
-<td valign="middle" align="center" width="160">
+<td valign="middle" align="right" width="150">
 
 #### 🕷️ Scraping
 </td>
 <td>
 
-<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" alt="Playwright" title="Playwright" />&nbsp;
-<img height="48" src="https://cdn.simpleicons.org/curl/073551" alt="curl-cffi" title="curl-cffi" />&nbsp;
-<img height="48" src="https://cdn.simpleicons.org/cloudflare/F38020" alt="Cloudflare bypass" title="Cloudflare bypass" />&nbsp;
-<img height="48" src="https://cdn.simpleicons.org/selenium/43B02A" alt="Selenium" title="Selenium" />&nbsp;
-<img height="48" src="https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge&logo=python&logoColor=white" alt="BeautifulSoup" />
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=selenium,cloudflare&theme=dark" height="44" /></a>
+<br>
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&labelColor=0D1117&logo=playwright&logoColor=white" />
+<img src="https://img.shields.io/badge/curl--cffi-073551?style=flat-square&labelColor=0D1117&logo=curl&logoColor=white" />
+<img src="https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=flat-square&labelColor=0D1117&logo=python&logoColor=white" />
 
 </td>
 </tr>
 
 <tr>
-<td valign="middle" align="center" width="160">
+<td valign="middle" align="right" width="150">
 
-#### 🤖 AI
+#### 🧠 AI
 </td>
 <td>
 
-<img height="48" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/openai.svg" alt="OpenAI" title="OpenAI" style="background-color:#fff;border-radius:8px" />&nbsp;
-<img height="48" src="https://cdn.simpleicons.org/anthropic/d97757" alt="Anthropic" title="Anthropic SDK" />&nbsp;
-<img height="48" src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white" alt="Groq" />
-<img height="48" src="https://img.shields.io/badge/RAG-BB54FF?style=for-the-badge&logoColor=white" alt="RAG" />
-<img height="48" src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="LangChain" title="LangChain" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&labelColor=0D1117&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Anthropic-D97757?style=flat-square&labelColor=0D1117&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&labelColor=0D1117&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG-BB54FF?style=flat-square&labelColor=0D1117" />
 
 </td>
 </tr>
 
 <tr>
-<td valign="middle" align="center" width="160">
+<td valign="middle" align="right" width="150">
 
-#### 🚀 Deploy
+#### 📦 Deploy
 </td>
 <td>
 
-<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" title="Docker" />&nbsp;
-<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" alt="Nginx" title="Nginx" />&nbsp;
-<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" title="Linux" />&nbsp;
-<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" title="Ubuntu" />&nbsp;
-<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="Bash" title="Bash" />&nbsp;
-<img height="48" src="https://img.shields.io/badge/systemd-30638E?style=for-the-badge&logoColor=white" alt="systemd" />
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,nginx,linux,ubuntu,bash&theme=dark" height="44" /></a>
+<br>
+<img src="https://img.shields.io/badge/systemd-30638E?style=flat-square&labelColor=0D1117&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/certbot_SSL-003A70?style=flat-square&labelColor=0D1117&logo=letsencrypt&logoColor=white" />
 
 </td>
 </tr>
 
 <tr>
-<td valign="middle" align="center" width="160">
+<td valign="middle" align="right" width="150">
 
 #### 🧰 Tools
 </td>
 <td>
 
-<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" title="Git" />&nbsp;
-<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" title="GitHub" style="background-color:#fff;border-radius:8px" />&nbsp;
-<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code" title="VS Code" />&nbsp;
-<img height="48" src="https://cdn.simpleicons.org/cursor/000000" alt="Cursor" title="Cursor" style="background-color:#fff;border-radius:8px" />&nbsp;
-<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="Postman" title="Postman" />&nbsp;
-<img height="48" src="https://cdn.simpleicons.org/jetbrains/000000" alt="JetBrains" title="JetBrains" style="background-color:#fff;border-radius:8px" />
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" height="44" /></a>
+<br>
+<img src="https://img.shields.io/badge/Cursor-0D1117?style=flat-square&labelColor=0D1117&logo=cursor&logoColor=white" />
+<img src="https://img.shields.io/badge/JetBrains-000000?style=flat-square&labelColor=0D1117&logo=jetbrains&logoColor=white" />
 
 </td>
 </tr>
 </table>
 
-<br>
+<div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>
+
+<!-- ════════════════ КАК ИДЁТ РАБОТА ════════════════ -->
+
+## 🧭 &nbsp;Как идёт работа
+
+```text
+1. ТЗ          →  обсуждаем задачу, уточняю детали
+2. Оценка      →  фикс цена и срок, без «плавающих» смет
+3. Предоплата  →  начинаю разработку
+4. Разработка  →  показываю прогресс по этапам
+5. Тесты       →  проверяем на реальных кейсах
+6. Сдача       →  исходники + README + гарантийные правки
+```
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>
+
+<!-- ════════════════ ЧТО ЗАКАЗЫВАЮТ ════════════════ -->
 
 ## 💼 &nbsp;Что чаще всего заказывают
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🤖 Telegram
-- Магазин с CryptoBot оплатой
+- Магазин с оплатой CryptoBot
 - Магазин с YooKassa / FreeKassa
 - Маркетплейс цифровых товаров
 - Premium-подписочный бот
 - Реферальная система + рассылки
 - Бот-чекер аккаунтов
-- Авторег + warmup аккаунтов
 - Инвайтер / парсер / рассыльщик
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🌐 Web / Auto
-- FastAPI backend под бота
+- FastAPI-backend под бота
 - Админ-панель на React
 - Парсер FunPay / PlayerOK
 - Авто-доставка цифровых товаров
-- Telegram Web App (внутри бота)
+- Telegram Web App внутри бота
 - AI-чатбот с RAG
-- Расширение для браузера
-- Docker-окружение под продакшен
+- Расширение для браузера + Docker-окружение
 
 </td>
 </tr>
 </table>
 
-<br>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" width="32" /> &nbsp;Inspiring quote of the day
-
 <div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&borderColor=BB54FF" />
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 </div>
 
-<br>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+<!-- ════════════════ СТАТИСТИКА ════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="32" /> &nbsp;Premium summary cards
+## 📊 &nbsp;GitHub-статистика
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=exfador&theme=radical" width="100%" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=exfador&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=FF54D0&icon_color=BB54FF&text_color=ffffff&include_all_commits=true&count_private=true&hide=stars" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=exfador&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=FF54D0&text_color=ffffff&langs_count=8" />
+
+<br><br>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=exfador&theme=react-dark&bg_color=00000000&color=BB54FF&line=FF54D0&point=ffffff&area=true&hide_border=true&custom_title=Coding%20activity" />
+
+<br>
 
 <table>
 <tr>
@@ -302,48 +317,35 @@
 </tr>
 </table>
 
-</div>
-
-<br>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="32" /> &nbsp;Classic stats — neon edition
-
-<div align="center">
-
-<a href="https://github.com/exfador">
-<img height="190" src="https://github-readme-stats.vercel.app/api?username=exfador&show_icons=true&theme=radical&hide_border=false&border_color=BB54FF&bg_color=00000000&title_color=FF54D0&icon_color=BB54FF&text_color=ffffff&include_all_commits=true&count_private=true&hide=stars" />
-<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=exfador&layout=compact&theme=radical&hide_border=false&border_color=BB54FF&bg_color=00000000&title_color=FF54D0&text_color=ffffff&langs_count=8" />
-</a>
-
 <!--
-  STREAK CARD — temporarily disabled.
-  The public streak-stats.demolab.com instance hit its GitHub token pool limit
-  ("UNABLE TO SELECT NEXT GITHUB TOKEN FROM POOL"). Either wait until it
-  recovers, or self-host: https://github.com/DenverCoder1/github-readme-streak-stats
-  Deploy to Vercel, then replace `streak-stats.demolab.com` below with your URL.
+  STREAK-КАРТОЧКА — временно отключена.
+  Публичный инстанс streak-stats.demolab.com упирался в лимит токенов
+  ("UNABLE TO SELECT NEXT GITHUB TOKEN FROM POOL"). Когда восстановится —
+  или подними свой self-host: https://github.com/DenverCoder1/github-readme-streak-stats
+  раскомментируй блок ниже и подставь свой URL.
 
-  <br><br>
-  <a href="https://github.com/exfador">
-  <img src="https://streak-stats.demolab.com?user=exfador&theme=radical&hide_border=false&border=BB54FF&background=00000000&stroke=BB54FF&ring=FF54D0&fire=FF54D0&currStreakLabel=BB54FF" />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=exfador&theme=radical&hide_border=true&background=00000000&stroke=BB54FF&ring=FF54D0&fire=FF54D0&currStreakLabel=BB54FF" />
 -->
 
 </div>
 
-<br>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="32" /> &nbsp;Activity Graph
-
 <div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=exfador&theme=react-dark&bg_color=00000000&color=BB54FF&line=FF54D0&point=ffffff&area=true&hide_border=true&custom_title=Coding%20activity" />
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 </div>
 
-<br>
+<!-- ════════════════ ЦИТАТА ════════════════ -->
+
+## 🎯 &nbsp;Quote of the day
+
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&borderColor=BB54FF" />
+</div>
+
+<div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>
+
+<!-- ════════════════ СПОНСОР ════════════════ -->
 
 ## 💎 &nbsp;Sponsor
 
@@ -351,7 +353,7 @@
 
 [![neversmm](https://img.shields.io/badge/Sponsored%20by-neversmm.com-FF3366?style=for-the-badge&labelColor=12121A)](https://neversmm.com)
 
-### **самая дешёвая SMM-накрутка в СНГ**
+### самая дешёвая SMM-накрутка в СНГ
 
 🚀 подписчики · ❤️ лайки · 👁 просмотры · 🔁 репосты · 💬 комментарии
 
@@ -359,19 +361,21 @@
 
 💰 от **0.01 ₽** за единицу &nbsp;|&nbsp; ♻️ автодоливы &nbsp;|&nbsp; 🔧 API для разработчиков
 
-### 🔗 https://neversmm.com
+**🔗 https://neversmm.com**
 
 </div>
 
 ---
 
+<!-- ════════════════ КОНТАКТЫ ════════════════ -->
+
 <div align="center">
 
-### 💬 Свяжись со мной
+### 💬 Связаться со мной
 
-<a href="https://t.me/exfador"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-<a href="https://t.me/coxerhub"><img src="https://img.shields.io/badge/Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-<a href="https://neversmm.com"><img src="https://img.shields.io/badge/neversmm.com-FF3366?style=for-the-badge" /></a>
+<a href="https://t.me/exfador"><img src="https://img.shields.io/badge/Telegram-%40exfador-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=12121A" /></a>
+<a href="https://t.me/coxerhub"><img src="https://img.shields.io/badge/Канал-%40coxerhub-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=12121A" /></a>
+<a href="https://neversmm.com"><img src="https://img.shields.io/badge/neversmm.com-FF3366?style=for-the-badge&labelColor=12121A" /></a>
 
 <br><br>
 
@@ -382,12 +386,13 @@
 <!--
 ================================================================
    SETUP
-   1. Создай PUBLIC репо с именем = твой GitHub username
-      (например: github.com/exfador/exfador)
-   2. Скопируй этот файл туда как README.md
-   3. Замени все 'exfador' на твой реальный username (если другой)
-   4. Commit + push → готово
-   Все картинки динамические, обновляются автоматически.
+   1. Создай PUBLIC репозиторий с именем = твой username
+      (github.com/exfador/exfador).
+   2. Положи этот файл туда как README.md → commit + push.
+   3. Если username другой — замени все 'exfador' на свой.
+
+   ОПЦИОНАЛЬНО — змейка контрибьюшнов (Platane/snk):
+   .github/workflows/snake.yml + потом вставь сюда:
+   <img src="https://raw.githubusercontent.com/exfador/exfador/output/github-contribution-grid-snake-dark.svg" />
 ================================================================
 -->
-
