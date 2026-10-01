@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="436" viewBox="0 0 640 436" role="img" aria-label="exfador — Python, Telegram, API, Web"><title>exfador — Python, Telegram, API, Web</title><style>
+@keyframes scan {0%,8%{transform:translateX(-240px)}70%,100%{transform:translateX(1450px)}}
+@keyframes ticker {to{transform:translateX(-1280px)}}
+@keyframes turn {0%,25%{transform:rotate(0deg)}50%,75%{transform:rotate(90deg)}100%{transform:rotate(180deg)}}
+@keyframes stream {to{stroke-dashoffset:-120}}
+@keyframes ping {0%,100%{opacity:.25}50%{opacity:1}}
+@keyframes reveal {0%,8%{clip-path:inset(0 100% 0 0)}35%,85%{clip-path:inset(0 0 0 0)}100%{clip-path:inset(0 100% 0 0)}}
+@keyframes arrow {0%,100%{transform:translate(0,0)}50%{transform:translate(8px,-8px)}}
+.scan{animation:scan 7s ease-in-out infinite}
+.ticker{animation:ticker 24s linear infinite}
+.turn{transform-box:fill-box;transform-origin:center;animation:turn 6s ease-in-out infinite}
+.stream{animation:stream 3s linear infinite}
+.ping{animation:ping 3s ease-in-out infinite}
+.reveal{animation:reveal 10s steps(28,end) infinite}
+.arrow{animation:arrow 2.5s ease-in-out infinite}
+@media(prefers-reduced-motion:reduce){*{animation:none!important}.scan{display:none}.reveal{clip-path:none}}
+</style><rect width="640" height="436" fill="#e8e5dd"/>
+ <defs><clipPath id="word"><text x="17" y="212" fill="#171717" font-family="Arial, Helvetica, sans-serif" font-size="146" font-weight="900" letter-spacing="-10" textLength="539" lengthAdjust="spacingAndGlyphs">exfador</text></clipPath></defs><text x="24" y="40" fill="#171717" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" >COXERHUB</text><text x="616" y="40" fill="#171717" font-family="Consolas, monospace" font-size="18" text-anchor="end">UTC+3</text><path d="M24 60H616" stroke="#171717"/><text x="17" y="212" fill="#171717" font-family="Arial, Helvetica, sans-serif" font-size="146" font-weight="900" letter-spacing="-10" textLength="539" lengthAdjust="spacingAndGlyphs">exfador</text>
+ <g clip-path="url(#word)"><rect class="scan" x="0" y="70" width="180" height="250" fill="#f33b24"/></g>
+ <rect class="turn" x="580" y="188" width="24" height="24" fill="#f33b24"/>
+ <path d="M24 249H616" stroke="#171717"/><text x="24" y="291" fill="#171717" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" >Боты. API. Автоматизация.</text><text x="24" y="334" fill="#171717" font-family="Consolas, monospace" font-size="22" class="reveal">async def main():</text>
+ <rect y="374" width="1280" height="62" fill="#f33b24"/><g class="ticker"><text x="32" y="413" fill="#171717" font-family="Consolas, monospace" font-size="23" textLength="1195" lengthAdjust="spacing">PYTHON / TELEGRAM / FASTAPI / REACT / API / AUTOMATION / COXERHUB /</text><text x="1312" y="413" fill="#171717" font-family="Consolas, monospace" font-size="23" textLength="1195" lengthAdjust="spacing">PYTHON / TELEGRAM / FASTAPI / REACT / API / AUTOMATION / COXERHUB /</text></g>
+ </svg>
