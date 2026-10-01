@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="450" viewBox="0 0 1280 450" role="img" aria-label="FunPay → CXH FP; Playerok → CXH Playerok; Starvell → Starvell Bot. Интерфейс каждого проекта — Telegram."><title>FunPay → CXH FP; Playerok → CXH Playerok; Starvell → Starvell Bot. Интерфейс каждого проекта — Telegram.</title><style>
+@keyframes scan {0%,8%{transform:translateX(-240px)}70%,100%{transform:translateX(1450px)}}
+@keyframes ticker {to{transform:translateX(-1280px)}}
+@keyframes turn {0%,25%{transform:rotate(0deg)}50%,75%{transform:rotate(90deg)}100%{transform:rotate(180deg)}}
+@keyframes stream {to{stroke-dashoffset:-120}}
+@keyframes ping {0%,100%{opacity:.25}50%{opacity:1}}
+@keyframes reveal {0%,8%{clip-path:inset(0 100% 0 0)}35%,85%{clip-path:inset(0 0 0 0)}100%{clip-path:inset(0 100% 0 0)}}
+@keyframes arrow {0%,100%{transform:translate(0,0)}50%{transform:translate(8px,-8px)}}
+.scan{animation:scan 7s ease-in-out infinite}
+.ticker{animation:ticker 24s linear infinite}
+.turn{transform-box:fill-box;transform-origin:center;animation:turn 6s ease-in-out infinite}
+.stream{animation:stream 3s linear infinite}
+.ping{animation:ping 3s ease-in-out infinite}
+.reveal{animation:reveal 10s steps(28,end) infinite}
+.arrow{animation:arrow 2.5s ease-in-out infinite}
+@media(prefers-reduced-motion:reduce){*{animation:none!important}.scan{display:none}.reveal{clip-path:none}}
+</style><rect width="1280" height="450" fill="#171717"/>
+ <text x="34" y="48" fill="#e8e5dd" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" >МАГАЗИНЫ → TELEGRAM</text><text x="1246" y="47" fill="#8b8b89" font-family="Consolas, monospace" font-size="16" text-anchor="end">три отдельных проекта</text>
+ <path d="M34 73H1246" stroke="#3b3c3d"/>
+ <path d="M250 164H400" stroke="#3b3c3d" fill="none" stroke-width="2"/><path class="stream" style="animation-delay:0s" d="M250 164H400" stroke="#f33b24" fill="none" stroke-width="3" stroke-dasharray="14 46"/><path d="M710 164H838V274H1000" stroke="#3b3c3d" fill="none" stroke-width="2"/><path class="stream" style="animation-delay:0s" d="M710 164H838V274H1000" stroke="#f33b24" fill="none" stroke-width="3" stroke-dasharray="14 46"/><path d="M250 274H400" stroke="#3b3c3d" fill="none" stroke-width="2"/><path class="stream" style="animation-delay:-1s" d="M250 274H400" stroke="#f33b24" fill="none" stroke-width="3" stroke-dasharray="14 46"/><path d="M710 274H838V274H1000" stroke="#3b3c3d" fill="none" stroke-width="2"/><path class="stream" style="animation-delay:-1s" d="M710 274H838V274H1000" stroke="#f33b24" fill="none" stroke-width="3" stroke-dasharray="14 46"/><path d="M250 384H400" stroke="#3b3c3d" fill="none" stroke-width="2"/><path class="stream" style="animation-delay:-2s" d="M250 384H400" stroke="#f33b24" fill="none" stroke-width="3" stroke-dasharray="14 46"/><path d="M710 384H838V274H1000" stroke="#3b3c3d" fill="none" stroke-width="2"/><path class="stream" style="animation-delay:-2s" d="M710 384H838V274H1000" stroke="#f33b24" fill="none" stroke-width="3" stroke-dasharray="14 46"/>
+ <rect x="34" y="126" width="216" height="76" fill="#202123" stroke="#3b3c3d"/><text x="54" y="159" fill="#e8e5dd" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" >FunPay</text><text x="54" y="184" fill="#8b8b89" font-family="Consolas, monospace" font-size="13" >заказы / сообщения</text><rect x="400" y="126" width="310" height="76" fill="#202123" stroke="#3b3c3d"/><text x="420" y="159" fill="#e8e5dd" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" >CXH FP</text><text x="420" y="184" fill="#8b8b89" font-family="Consolas, monospace" font-size="13" >плагины / автовыдача</text>
+ <rect x="34" y="236" width="216" height="76" fill="#202123" stroke="#3b3c3d"/><text x="54" y="269" fill="#e8e5dd" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" >Playerok</text><text x="54" y="294" fill="#8b8b89" font-family="Consolas, monospace" font-size="13" >сделки / события</text><rect x="400" y="236" width="310" height="76" fill="#202123" stroke="#3b3c3d"/><text x="420" y="269" fill="#e8e5dd" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" >CXH Playerok</text><text x="420" y="294" fill="#8b8b89" font-family="Consolas, monospace" font-size="13" >WebSocket / Telegram</text>
+ <rect x="34" y="346" width="216" height="76" fill="#202123" stroke="#3b3c3d"/><text x="54" y="379" fill="#e8e5dd" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" >Starvell</text><text x="54" y="404" fill="#8b8b89" font-family="Consolas, monospace" font-size="13" >лоты / чаты</text><rect x="400" y="346" width="310" height="76" fill="#202123" stroke="#3b3c3d"/><text x="420" y="379" fill="#e8e5dd" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" >Starvell Bot</text><text x="420" y="404" fill="#8b8b89" font-family="Consolas, monospace" font-size="13" >автобамп / плагины</text>
+ <rect x="1000" y="210" width="246" height="128" fill="#e8e5dd"/>
+ <text x="1024" y="261" fill="#171717" font-family="Arial, Helvetica, sans-serif" font-size="31" font-weight="700" >Telegram</text><text x="1024" y="293" fill="#171717" font-family="Consolas, monospace" font-size="16" >панель продавца</text>
+ <circle cx="1214" cy="230" r="5" fill="#f33b24" class="ping"/>
+</svg>
