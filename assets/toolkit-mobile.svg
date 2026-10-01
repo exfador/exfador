@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="420" viewBox="0 0 640 420" role="img" aria-label="Стек: Python, Telegram, TypeScript, PostgreSQL, API, Docker."><title>Стек: Python, Telegram, TypeScript, PostgreSQL, API, Docker.</title><style>
+@keyframes scan {0%,8%{transform:translateX(-240px)}70%,100%{transform:translateX(1450px)}}
+@keyframes ticker {to{transform:translateX(-1280px)}}
+@keyframes turn {0%,25%{transform:rotate(0deg)}50%,75%{transform:rotate(90deg)}100%{transform:rotate(180deg)}}
+@keyframes stream {to{stroke-dashoffset:-120}}
+@keyframes ping {0%,100%{opacity:.25}50%{opacity:1}}
+@keyframes reveal {0%,8%{clip-path:inset(0 100% 0 0)}35%,85%{clip-path:inset(0 0 0 0)}100%{clip-path:inset(0 100% 0 0)}}
+@keyframes arrow {0%,100%{transform:translate(0,0)}50%{transform:translate(8px,-8px)}}
+.scan{animation:scan 7s ease-in-out infinite}
+.ticker{animation:ticker 24s linear infinite}
+.turn{transform-box:fill-box;transform-origin:center;animation:turn 6s ease-in-out infinite}
+.stream{animation:stream 3s linear infinite}
+.ping{animation:ping 3s ease-in-out infinite}
+.reveal{animation:reveal 10s steps(28,end) infinite}
+.arrow{animation:arrow 2.5s ease-in-out infinite}
+@media(prefers-reduced-motion:reduce){*{animation:none!important}.scan{display:none}.reveal{clip-path:none}}
+</style><rect width="640" height="420" fill="#171717"/><rect x="0.5" y="0.5" width="319" height="139" fill="none" stroke="#3b3c3d"/>
+ <text x="20" y="34" fill="#f33b24" font-family="Consolas, monospace" font-size="16" >PY</text><text x="20" y="75" fill="#e8e5dd" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700" >Python</text><text x="20" y="112" fill="#8b8b89" font-family="Consolas, monospace" font-size="16" >asyncio · FastAPI</text>
+ <path class="stream" style="animation-delay:0s" d="M245 31H300" stroke="#f33b24" stroke-width="2" stroke-dasharray="8 12"/><rect x="320.5" y="0.5" width="319" height="139" fill="none" stroke="#3b3c3d"/>
+ <text x="340" y="34" fill="#f33b24" font-family="Consolas, monospace" font-size="16" >TG</text><text x="340" y="75" fill="#e8e5dd" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700" >Telegram</text><text x="340" y="112" fill="#8b8b89" font-family="Consolas, monospace" font-size="16" >aiogram · Pyrogram</text>
+ <path class="stream" style="animation-delay:-0.45s" d="M565 31H620" stroke="#f33b24" stroke-width="2" stroke-dasharray="8 12"/><rect x="0.5" y="140.5" width="319" height="139" fill="none" stroke="#3b3c3d"/>
+ <text x="20" y="174" fill="#f33b24" font-family="Consolas, monospace" font-size="16" >TS</text><text x="20" y="215" fill="#e8e5dd" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700" >Web</text><text x="20" y="252" fill="#8b8b89" font-family="Consolas, monospace" font-size="16" >React · Next.js</text>
+ <path class="stream" style="animation-delay:-0.9s" d="M245 171H300" stroke="#f33b24" stroke-width="2" stroke-dasharray="8 12"/><rect x="320.5" y="140.5" width="319" height="139" fill="none" stroke="#3b3c3d"/>
+ <text x="340" y="174" fill="#f33b24" font-family="Consolas, monospace" font-size="16" >DB</text><text x="340" y="215" fill="#e8e5dd" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700" >Данные</text><text x="340" y="252" fill="#8b8b89" font-family="Consolas, monospace" font-size="16" >PostgreSQL · Redis</text>
+ <path class="stream" style="animation-delay:-1.35s" d="M565 171H620" stroke="#f33b24" stroke-width="2" stroke-dasharray="8 12"/><rect x="0.5" y="280.5" width="319" height="139" fill="none" stroke="#3b3c3d"/>
+ <text x="20" y="314" fill="#f33b24" font-family="Consolas, monospace" font-size="16" >API</text><text x="20" y="355" fill="#e8e5dd" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700" >Интеграции</text><text x="20" y="392" fill="#8b8b89" font-family="Consolas, monospace" font-size="16" >httpx · WebSocket</text>
+ <path class="stream" style="animation-delay:-1.8s" d="M245 311H300" stroke="#f33b24" stroke-width="2" stroke-dasharray="8 12"/><rect x="320.5" y="280.5" width="319" height="139" fill="none" stroke="#3b3c3d"/>
+ <text x="340" y="314" fill="#f33b24" font-family="Consolas, monospace" font-size="16" >OPS</text><text x="340" y="355" fill="#e8e5dd" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700" >Сервер</text><text x="340" y="392" fill="#8b8b89" font-family="Consolas, monospace" font-size="16" >Docker · Linux</text>
+ <path class="stream" style="animation-delay:-2.25s" d="M565 311H620" stroke="#f33b24" stroke-width="2" stroke-dasharray="8 12"/></svg>
